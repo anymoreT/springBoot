@@ -34,8 +34,6 @@ public class PropertyUtil {
     public void setUploadPicUrl(String uploadPicUrl) {
         this.uploadPicUrl = uploadPicUrl;
     }
-
-
-
-
 }
+
+
